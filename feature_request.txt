@@ -1,0 +1,17 @@
+Решение, применяемое в настоящее время: Mitsubishi Alpha 2 (XL) -- http://www.mitsubishi-automation.ru/products/microcontrollers_ALPHAXL.html
+
+Требуемый функционал:
+# Питание 24V DC
+# Оптическая развязка входов.
+# Цифровые входы 24V DC.
+# Аналоговые входы (0-10V), 4-20 мА -- 8 шт
+# Выходы: часть релейные (с возможностью коммутировать нагрузку 220VAC, например пускатели), часть Sourcing 24VDC
+# Дисплей 4x16 символов
+# 5 кнопок: < > ^ v и Ок. Возможно ещё — +, -, ESC.
+# SD-Card для логов
+# RS-485
+
+Примеры существующих систем на базе Arduino:
+http://www.oceancontrols.com.au/KTB-223.html
+http://aplcino.blogspot.com/2010/12/arduino-a8036b-1.html
+https://www.olimex.com/Products/Duino/AVR/OLIMEXINO-328/
